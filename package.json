@@ -1,0 +1,16 @@
+{
+	"name": "weather-app",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.15"
+	},
+	"dependencies": {
+		"debug": "^4.3.2",
+		"postman-request": "^2.88.1-postman.30"
+	}
+}
